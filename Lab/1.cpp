@@ -47,9 +47,4 @@ cout<<" ACademic "<<obj.academicId <<endl;
 
 cout<<"HoD phone"<<obj.HodPhone <<endl;
 
-
-
-
-
-
 }
